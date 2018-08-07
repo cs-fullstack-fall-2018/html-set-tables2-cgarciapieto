@@ -22,37 +22,37 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="html" value="1" />
+          <entry key="html" value="2" />
           <entry key="iml" value="1" />
           <entry key="png" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="1" />
+          <entry key="HTML" value="2" />
           <entry key="IDEA_MODULE" value="1" />
           <entry key="Image" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="380" />
+          <entry key="html" value="640" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="380" />
+          <entry key="HTML" value="640" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tables.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="333">
-              <caret line="33" column="8" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
+            <state relative-caret-position="105">
+              <caret line="7" lean-forward="true" selection-start-line="6" selection-end-line="18" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -60,6 +60,15 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Example1.png">
           <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/table2.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -78,6 +87,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/tables.html" />
+        <option value="$PROJECT_DIR$/table2.html" />
       </list>
     </option>
   </component>
@@ -146,12 +156,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JavaScript Debug.table2.html">
+    <configuration name="table2.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/html-set-tables2-cgarciapieto/table2.html">
+      <method v="2" />
+    </configuration>
     <configuration name="tables.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/html-set-tables2-cgarciapieto/tables.html">
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.tables.html" />
+      <item itemvalue="JavaScript Debug.table2.html" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.table2.html" />
         <item itemvalue="JavaScript Debug.tables.html" />
       </list>
     </recent_temporary>
@@ -217,8 +235,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tables.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="333">
-          <caret line="33" column="8" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="6" selection-end-line="18" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/table2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
         </state>
       </provider>
     </entry>
